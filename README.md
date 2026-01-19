@@ -23,7 +23,7 @@ A Core PHP (No Framework) implementation of a Certification and Subscription man
 
 1.  **Clone the repository**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/mehulkoradiya/cert-sub-management.git
     cd cert-sub-management
     ```
 
